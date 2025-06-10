@@ -15,6 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/vishaljha1010/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:vishaljha055616@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/VishalJha01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d4aa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=00d4aa)](#)
 
 </div>
 
@@ -72,6 +73,8 @@ Currently exploring the intersection of AI, data science, and user experience th
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=11557C)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
 
 </div>
 
@@ -91,6 +94,7 @@ Currently exploring the intersection of AI, data science, and user experience th
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white&labelColor=222222)
 
 </div>
 
@@ -116,66 +120,3 @@ graph LR
     style E fill:#feca57
     style F fill:#ff9ff3
     style G fill:#54a0ff
-
-class DataScientist:
-    def __init__(self):
-        self.name = "Vishal Jha"
-        self.role = "Data Analyst & ML Enthusiast"
-        
-    def daily_workflow(self):
-        activities = [
-            "☕ Coffee + Data Exploration",
-            "🧹 Clean and preprocess datasets", 
-            "🔍 Discover hidden patterns",
-            "🤖 Build predictive models",
-            "📊 Create stunning visualizations",
-            "🚀 Deploy insights to production",
-            "📈 Monitor and optimize performance"
-        ]
-        return activities
-    
-    def tech_stack(self):
-        return {
-            "languages": ["Python 🐍", "R 📊", "SQL 🗄️"],
-            "ml_libs": ["Scikit-learn 🤖", "TensorFlow 🧠", "Pandas 🐼"],
-            "viz_tools": ["Plotly 📈", "Matplotlib 🎨", "Seaborn 🌊"],
-            "dashboards": ["Streamlit 🚀", "Power BI ⚡", "Tableau 📊"],
-            "deployment": ["Vercel 🌐", "GitHub Pages 📄"]
-        }
-    
-    def current_focus(self):
-        return "Building AI-powered analytics solutions 🚀"
-
-# Initialize the data scientist
-vishal = DataScientist()
-print("Ready to transform data into insights! 💡")
-
-`<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VishalJha01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalJha01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=ffffff"/>
-</div>``<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalJha01&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" alt="GitHub Streak"/>
-</div>``<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalJha01&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff" width="100%"/>
-</div>`
-
-
-<br>
-
-**📧 Email:** [vishaljha055616@gmail.com](mailto:vishaljha055616@gmail.com)  
-**💼 LinkedIn:** [vishaljha1010](https://www.linkedin.com/in/vishaljha1010/)  
-**🐙 GitHub:** [@VishalJha01](https://github.com/VishalJha01)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💭 *"In God we trust, all others must bring data."* - W. Edwards Deming
-
-<img src="https://komarev.com/ghpvc/?username=VishalJha01&label=Profile%20Views&color=00d4aa&style=for-the-badge" alt="Profile Views" />
-
-**⭐ From [VishalJha01](https://github.com/VishalJha01) with ❤️**
-
-</div>
