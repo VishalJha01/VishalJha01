@@ -20,34 +20,28 @@
     <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/Email-Contact-D14836.svg?logo=gmail&logoColor=white"/>
   </a>
 </p>
-💡 About Me
-<div align="center" style="background-color: #0f0f0f; padding: 20px; border-radius: 20px; color: #f0f0f0; font-size: 17px; line-height: 1.6;"> ```yaml name: Vishal Jha role: Data Analyst & ML Explorer location: India current_focus: AI/ML | Real-Time Dashboards | UX with Data passion: Making data beautiful & meaningful motto: "Let data speak louder than opinions"
+name: Vishal Jha
+role: Data Analyst & ML Explorer
+location: India
+current_focus: 
+  - AI/ML Integration
+  - Real-Time Dashboards
+  - Data-Driven UX
+passion: Making data beautiful & meaningful
+motto: "Let data speak louder than opinions"
+
 learning:
-
-Generative AI
-
-Deep Learning Applications
-
-Scalable Dashboards with Streamlit
-
-Cloud-first Analytics
+  - 🤖 Generative AI
+  - 🧠 Deep Learning Applications
+  - 📊 Scalable Dashboards with Streamlit
+  - ☁️ Cloud-first Analytics
 
 interests:
+  - 📈 Visual Analytics
+  - 🤖 Machine Learning
+  - 🌐 Web Data Integration
+  - 🎨 Interactive Dashboards
 
-📊 Visual Analytics
-
-🤖 Machine Learning
-
-🌐 Web Data Integration
-
-🎨 Interactive Dashboards
-
-php-template
-Copy
-Edit
-</div>
-
----
 
 ## 🚀 Tech Arsenal
 
