@@ -53,16 +53,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalJha01&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalJha01&theme=radical" width="48%">
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalJha01&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
-
 ## 🤝 Connect with Me
 
 <p>
