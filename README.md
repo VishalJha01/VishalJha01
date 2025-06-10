@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**VishalJha01/VishalJha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 <h1 align="center">Hi 👋, I'm Vishal Jha</h1> 
 <h3 align="center">💻 Full Stack Developer | 🚀 AI Enthusiast | 🌱 Sustainability Advocate</h3>
@@ -18,7 +15,7 @@
 - 🌍 Focused on building sustainable and eco-friendly digital products  
 - 🤖 Experienced in **Machine Learning, Web Development, Data Visualization**  
 - 🌱 Advocate for environmental sustainability through technology  
-- 📫 Reach me at: [vishaljha1010@gmail.com](mailto:vishaljha1010@gmail.com)  
+- 📫 Reach me at: [vishaljha1010@gmail.com](mailto:vishaljha055616@gmail.com)  
 - 🌐 Portfolio: [vishal-jha.vercel.app](https://vishal-jha.vercel.app/)
 
 ---
