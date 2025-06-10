@@ -1,33 +1,39 @@
-## Hi there 👋
-
-
 <h1 align="center">Hi 👋, I'm Vishal Jha</h1> 
-<h3 align="center">💻 Full Stack Developer | 🚀 AI Enthusiast | 🌱 Sustainability Advocate</h3>
+<h3 align="center">💻 Data Science & Analytics | 🚀 AI Enthusiast | 📊 Insight-Driven Storyteller</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Building+Digital+Solutions;AI+%7C+Web+Dev+%7C+Sustainability;HTML+%7C+CSS+%7C+JS+%7C+Python+%7C+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Empowering+Insights+Through+Data;AI+%7C+ML+%7C+Data+Analytics;Python+%7C+SQL+%7C+Power+BI+%7C+Streamlit" alt="Typing SVG" />
 </p>
+
+
 
 ---
 
 ## 🙋‍♂️ About Me
-- 💡 I'm passionate about creating innovative web solutions and AI applications  
-- 🌍 Focused on building sustainable and eco-friendly digital products  
+-💡 I'm passionate about creating intelligent, real-time web solutions powered by AI and data.
+-📊 Skilled in transforming raw data into sleek, actionable dashboards and experiences.
+-🚀 On a journey to merge frontend finesse with backend logic for impactful digital systems.
+-🎯 Focused on building responsive, insight-driven platforms that simplify complex workflows.
 - 🤖 Experienced in **Machine Learning, Web Development, Data Visualization**  
-- 🌱 Advocate for environmental sustainability through technology  
-- 📫 Reach me at: [vishaljha1010@gmail.com](mailto:vishaljha055616@gmail.com)  
+- 📫 Reach me at: [vishaljha055616@gmail.com](mailto:vishaljha055616@gmail.com)  
 - 🌐 Portfolio: [vishal-jha.vercel.app](https://vishal-jha.vercel.app/)
 
 ---
 
 ## 🧰 Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
 </p>
 
 ---
@@ -66,7 +72,7 @@
   <a href="https://vishal-jha.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:vishaljha1010@gmail.com">
+  <a href="mailto:vishaljha055616@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
