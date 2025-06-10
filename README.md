@@ -83,6 +83,5 @@
   <img src="https://komarev.com/ghpvc/?username=VishalJha01&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
-<p align="center">
-  💡 <em>"Building tomorrow's solutions with today's technology, while keeping our planet green!"</em> 🌱
-</p>
+
+
