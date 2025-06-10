@@ -2,9 +2,8 @@
 <h3 align="center">💻 Data Science & Analytics | 🚀 AI Enthusiast | 📊 Insight-Driven Storyteller</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Empowering+Insights+Through+Data;AI+%7C+ML+%7C+Data+Analytics;Python+%7C+SQL+%7C+Power+BI+%7C+Streamlit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=300&duration=1500&color=FF0000&center=true&vCenter=true&width=500&lines=Empowering+Insights+Through+Data;AI+%7C+ML+%7C+Data+Analytics;Python+%7C+SQL+%7C+Power+BI+%7C+Streamlit" alt="Typing SVG" />
 </p>
-
 
 
 ---
