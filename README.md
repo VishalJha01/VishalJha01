@@ -32,6 +32,18 @@ current_focus:
   - Data-Driven UX
 passion: "Making data beautiful & meaningful"
 motto: "Let data speak louder than opinions"
+
+learning:
+  🤖 Generative AI
+  🧠 Deep Learning Applications
+  📊 Scalable Dashboards with Streamlit
+  ☁️ Cloud-first Analytics
+
+interests:
+  📈 Visual Analytics
+  🤖 Machine Learning
+  🌐 Web Data Integration
+  🎨 Interactive Dashboards
 🛠️ Tech Arsenal
 💻 Languages & Tools
 <div align="center"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </div>
